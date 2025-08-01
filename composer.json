@@ -3,7 +3,7 @@
     "description": "Funções utilitárias compatíveis com SEI",
     "autoload": {
         "classmap": [
-            "src/"
+            "."
         ]
     }
 }
