@@ -1,10 +1,9 @@
 {
-  "name": "seuusuario/utilphp",
-  "description": "Utility functions",
-  "autoload": {
-    "psr-4": {
-      "Util\\": "src/"
+    "name": "mauro1706/utilphp",
+    "description": "Funções utilitárias compatíveis com SEI",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
     }
-  },
-  "require": {}
 }
