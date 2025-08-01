@@ -1,0 +1,10 @@
+{
+  "name": "seuusuario/utilphp",
+  "description": "Utility functions",
+  "autoload": {
+    "psr-4": {
+      "Util\\": "src/"
+    }
+  },
+  "require": {}
+}
